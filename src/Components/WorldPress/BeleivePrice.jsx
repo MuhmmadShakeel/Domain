@@ -2,7 +2,7 @@ import React from "react";
 
 function BeleivePrice() {
   return (
-    <section className="bg-white py-2 px-4">
+    <section className="bg-white py-2  px-4">
       <div className="max-w-6xl mx-auto text-center">
         {/* Heading */}
         <h2 className="text-4xl md:text-5xl font-bold text-gray-800">
